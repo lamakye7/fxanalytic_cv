@@ -11,7 +11,7 @@ This project demonstrates a robust instance segmentation model designed for dete
 
 ## App Deployment
 Explore the live app on Hugging Face:
-[Forex Chart Pattern Analyzer on Hugging Face](<INSERT_APP_LINK>)
+[Forex Chart Pattern Analyzer on Hugging Face](<https://huggingface.co/spaces/lamakye7/fxanalytics>)
 
 ### App Screenshot
 ![App Screenshot](<INSERT_SCREENSHOT_LINK>)
@@ -24,9 +24,7 @@ Explore the live app on Hugging Face:
 
 ## Key Visualizations
 - **Annotated Charts:** Display patterns detected by the segmentation models.
-  ![Annotated Chart Example](<INSERT_ANNOTATED_CHART_IMAGE_LINK>)
 - **Class Distributions:** Bar charts of the detection counts.
-  ![Class Distribution Example](<INSERT_CLASS_DISTRIBUTION_IMAGE_LINK>)
 - **Trading Metrics:** Analysis insights for forex trading patterns.
 
 ## Future Improvements
@@ -35,7 +33,7 @@ Explore the live app on Hugging Face:
 - Integration with real-time trading data.
 
 ## Author
-This project was developed by [Your Name], a Data Scientist passionate about AI-driven trading insights.
+This project was developed by Louis Amakye, a Data Scientist passionate about AI-driven trading insights.
 
 ---
 For questions, issues, or contributions, please create an issue on the GitHub repository.
