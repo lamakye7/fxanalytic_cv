@@ -14,7 +14,7 @@ Explore the live app on Hugging Face:
 [Forex Chart Pattern Analyzer on Hugging Face](<https://huggingface.co/spaces/lamakye7/fxanalytics>)
 
 ### App Screenshot
-![App Screenshot] (<psc.png>)
+![App Screenshot](psc.png)
 
 ## How It Works
 1. **Upload Chart:** Select and upload a forex chart.
