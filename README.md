@@ -37,6 +37,13 @@ Explore the live app on Hugging Face:
 ## Author
 This project was developed by Louis Amakye, a Data Scientist passionate about AI-driven trading insights.
 
+## Disclaimer
+This project is developed solely for research and educational purposes. It demonstrates the application of computer vision techniques, specifically YOLOv8-based instance segmentation, in detecting and analyzing patterns on Forex trading charts.
+
+The system is not a financial tool and should not be used to make investment, trading, or financial decisions. The insights generated are based purely on model predictions from custom-annotated datasets and do not constitute professional financial advice.
+
+The creators of this project make no guarantees regarding the accuracy, reliability, or profitability of any trading outcomes derived from its use. Users are strongly advised to conduct their own research and seek guidance from licensed financial professionals before making any investment decisions.
+
 ---
 For questions, issues, or contributions, please create an issue on the GitHub repository.
 
